@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/app/Http/Controllers/ApiTokenController.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/database/seeders/UsersTableSeeder.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/config/auth.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/database/migrations/2019_08_19_000000_create_credit_cards_table.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/database/seeders/DatabaseSeeder.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/app/Models/User.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/database/migrations/2014_10_12_000000_create_clients_table.php</file>
+            <file>file:/D:/el%20pinche%20mano/sites/nuvu/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factories/HasFactory.php</file>
+        </group>
+    </open-files>
+</project-private>
